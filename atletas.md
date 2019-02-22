@@ -2,6 +2,8 @@
 
 Zidane
 ----
+Kamicat
+----
 Michael Jordan
 ----
 Dentinho
