@@ -1,6 +1,6 @@
 # Melhores atletas
 
-Zidane
+Roberto Carlos
 ----
-Michael Jordan
+Dentinho
 ----
